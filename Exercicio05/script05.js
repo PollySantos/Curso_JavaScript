@@ -6,3 +6,4 @@ d.innerText = 'Estou aguardando' */
 
 var d = document.querySelector('div#msg')
 d.style.background = 'black'
+
