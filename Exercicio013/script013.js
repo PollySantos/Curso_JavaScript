@@ -35,5 +35,5 @@ switch (diaSem) {
         console.log('Sábado')
         break
     defaut:
-    console.log('[ERRO] Dia inválido!')
+    console.log('[ERRO] Dia inválido!') // no caso não é necessário nesse exercício mais vale lembrar.
 }
